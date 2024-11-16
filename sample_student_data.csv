@@ -1,0 +1,11 @@
+Age,Gender,SES,High_School_GPA,SAT_Score,Academic_Failures,Attendance_Percentage,Extracurricular_Participation,Academic_Support,Online_Learning_Hours
+18,Male,High,3.8,1200,0,95,Yes,No,5
+19,Female,Medium,3.2,1100,1,87,No,Yes,2
+17,Male,Low,2.9,950,2,78,Yes,No,3
+18,Female,High,3.6,1300,0,92,Yes,No,4
+20,Female,Medium,3.1,1050,1,85,No,Yes,2
+21,Male,Low,2.7,900,3,72,No,Yes,1
+17,Female,Medium,3.0,1000,1,80,Yes,No,3
+18,Male,High,3.5,1250,0,94,Yes,No,4
+19,Female,Low,2.8,980,2,76,No,Yes,2
+20,Male,Medium,3.3,1080,1,88,No,Yes,3
